@@ -1,5 +1,5 @@
 ## Power-BI---Sales-Dashboard
-This repository contains Power BI dashboard to track Sales KPI
+This repository contains Power BI dashboard to track Sales KPI.The dashboard provides a visual representation of sales metrics.
 
 ### Description 
 It gives you a concise view of results-based metrics like sales to date, Units sold, Revenue by product and so on.
